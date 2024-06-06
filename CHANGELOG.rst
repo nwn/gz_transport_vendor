@@ -2,8 +2,8 @@
 Changelog for package gz_transport_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.1.1 (2024-06-06)
+------------------
 * Update underlying version to 13.3.0
 * Contributors: Addisu Z. Taddese
 
