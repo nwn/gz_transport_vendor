@@ -12,7 +12,7 @@
   -->
   <version>0.0.4</version>
   <description>
-    Vendor package for: gz-transport13 13.2.0
+    Vendor package for: gz-transport13 13.4.0
 
     Gazebo Transport: Provides fast and efficient asynchronous message passing, services, and data logging.
   </description>
