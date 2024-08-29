@@ -3,8 +3,8 @@ cmake_minimum_required(VERSION 3.10)
 project(gz_transport_vendor)
 
 # Project-specific settings
-set(LIB_VER_MAJOR 13)
-set(LIB_VER_MINOR 4)
+set(LIB_VER_MAJOR 14)
+set(LIB_VER_MINOR 0)
 set(LIB_VER_PATCH 0)
 
 # Derived variables
